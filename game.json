@@ -1,0 +1,8 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "ln": 2,
+        "l1": "level1.json",
+	"l2": "level2.json"
+    }
+}
